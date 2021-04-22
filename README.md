@@ -4,5 +4,5 @@ I am a Computer Science student at the Technical University of Lodz, Poland and 
 About me:
 - 👀 I am interested in Java, C, C++, Python.
 - 💞️ I am looking for an internship
-- 📫 Here is a link to my LinkedIn : https://www.linkedin.com/feed/
+- 📫 Here is a link to my LinkedIn : https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/
 
