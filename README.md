@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### Welcome to my GitHub! My name is Michał Włodarczyk, also known as Mikey3D99.
-### I am a Computer Science student at the Technical University of Lodz, Poland and a member of FruitEaters Inc. 
+ Welcome to my GitHub! My name is Michał Włodarczyk, also known as Mikey3D99.
+ I am a Computer Science student at the Technical University of Lodz, Poland and a member of FruitEaters Inc. 
 
  ## About me:
 - 👀 I am interested in Java, C, C++, Python.
@@ -16,3 +16,16 @@
 |[Client-Server-App](https://github.com/Mikey3D99/Client-Server-App-Java)|In progress| Client-server app, written in Java|
 |[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
 
+## Technologies
+* Low level programming in **C lang**
+* OOP with **C++**, **Java**, **SWIFT**
+* Project management with tools like **git** and **Trello**
+* **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
+* Basic knowledge of **3D modelling** in 3DSmax
+* Basics of **SQL**
+* Basics of **SWIFT**
+
+## :atom: I’m currently learning ...
+* Java
+* SWIFT
+* Python
