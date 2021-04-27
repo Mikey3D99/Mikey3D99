@@ -6,7 +6,7 @@
  ## About me:
 - 👀 I am interested in Java, C, C++, Python.
 - 💞️ I am looking for an internship / part-time job.
-- 📫 Here is a link to my LinkedIn : https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/
+- 📫 How to reach me :[LinkedIn]https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/)
 
 ### Projects:
 
