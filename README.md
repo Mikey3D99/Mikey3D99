@@ -25,7 +25,7 @@
 * Basics of **SQL**
 * Basics of **SWIFT**
 
-## :atom: I’m currently learning ...
-* Java
-* SWIFT
-* Python
+##  I’m currently learning :atom: ...
+* Java :coffee:
+* SWIFT :dove:
+* Python :snake:
