@@ -14,6 +14,7 @@
 |:---|:---|:---:|
 |[Simple-Shopping-List-Implementation](https://github.com/Mikey3D99/Simple_Shopping_List_Implementation)| Finished|Simple shopping list app, written in Java|
 |[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
+|[NotifyMe](https://github.com/Mikey3D99/NotifyMe)|in progress| Client-server app which sends a notification to the user at their preffered time, written in java.|
 
 
 ## Technologies
