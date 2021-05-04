@@ -4,7 +4,7 @@
  I am a Computer Science student at the Lodz University of Technology, Poland and a member of FruitEaters Inc. 
 
  ## About me:
-- 👀 I am interested in Java, C, C++, Python.
+- 👀 I am interested in Java, C, C++, Python, Swift.
 - 💞️ I am looking for an internship / part-time job.
 - 📫 How to reach me : [ My LinkedIn](https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/)
 
