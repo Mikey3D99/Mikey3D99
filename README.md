@@ -4,7 +4,7 @@
  I am a Computer Science student at the Lodz University of Technology, Poland and a member of FruitEaters Inc. 
 
  ## About me:
-- 👀 I am interested in Java, C, C++, Python, Swift.
+- 👀 I am interested in Java, Python, Machine Learning.
 - 💞️ I am looking for an internship / part-time job.
 - 📫 How to reach me : [ My LinkedIn](https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/)
 
@@ -12,7 +12,7 @@
 
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
-|[NotifyMe](https://github.com/Mikey3D99/NotifyMe)|Finished| Client-server app which sends a notification to the user at their preffered time, written in java.|
+|[GeneticAlgorithms](https://github.com/Mikey3D99/GeneticAlgorithms)|Finished| Implementation of a genetic algorithm, in this particular case - function optimization|
 |[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
 |[Simple-Shopping-List-Implementation](https://github.com/Mikey3D99/Simple_Shopping_List_Implementation)| Finished|Simple shopping list app, written in Java|
 
