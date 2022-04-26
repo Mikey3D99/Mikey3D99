@@ -19,14 +19,13 @@
 
 ## Technologies
 * Low level programming in **C lang**
-* OOP with **C++**, **Java**, **SWIFT**
+* OOP with **Java**, **Python**
 * Project management with tools like **git** and **Trello**
 * **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
 * Basic knowledge of **3D modelling** in 3DSmax
 * Basics of **SQL**
-* Basics of **SWIFT**
 
 ##  I’m currently learning ...
 * Java :coffee:
-* SWIFT :dove:
+* Machine Learning :robot:
 * Python :snake:
