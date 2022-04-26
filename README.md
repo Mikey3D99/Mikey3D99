@@ -13,6 +13,7 @@
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
 |[GeneticAlgorithms](https://github.com/Mikey3D99/GeneticAlgorithms)|Finished| Implementation of a genetic algorithm, in this particular case - function optimization|
+|[ComputerVisionGame](https://github.com/Mikey3D99/ComputerVisionGame)| Finished|Computer vision game, written in c++ and using OpenCV|
 |[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
 |[Simple-Shopping-List-Implementation](https://github.com/Mikey3D99/Simple_Shopping_List_Implementation)| Finished|Simple shopping list app, written in Java|
 
