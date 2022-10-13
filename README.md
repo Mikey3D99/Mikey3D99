@@ -27,6 +27,7 @@
 * **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
 * Basic knowledge of **3D modelling** in 3DSmax
 * Basics of **SQL**
+* Godot Engine
 
 ##  I’m currently learning ...
 * Game Dev :video_game:
