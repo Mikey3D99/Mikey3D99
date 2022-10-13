@@ -4,7 +4,7 @@
  I am a Computer Science student at the Lodz University of Technology, Poland and a member of FruitEaters Inc. 
 
  ## About me:
-- 👀 I am interested in Java, Python, Machine Learning.
+- 👀 I am interested in Game Dev & Machine Learning.
 - 💞️ I am looking for an internship / part-time job.
 - 📫 How to reach me : [ My LinkedIn](https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/)
 
@@ -29,7 +29,7 @@
 * Basics of **SQL**
 
 ##  I’m currently learning ...
-* Game Dev :pad:
+* Game Dev :video_game:
 * Java :coffee:
 * Machine Learning :robot:
 * Python :snake:
