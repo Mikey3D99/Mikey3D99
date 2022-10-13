@@ -29,6 +29,7 @@
 * Basics of **SQL**
 
 ##  I’m currently learning ...
+* Game Dev :pad:
 * Java :coffee:
 * Machine Learning :robot:
 * Python :snake:
