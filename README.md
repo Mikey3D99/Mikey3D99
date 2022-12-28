@@ -12,10 +12,11 @@
 
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
+[ReceiptsSharing](https://github.com/Mikey3D99/ReceiptsSharing)|Finished| Receipts sharing application written in Dart + Flutter for Android|
 [WeatherApp](https://github.com/Mikey3D99/WeatherApp)|Finished| Simple weather application for Android written in Java|
 |[GeneticAlgorithms](https://github.com/Mikey3D99/GeneticAlgorithms)|Finished| Implementation of a genetic algorithm, in this particular case - function optimization|
 |[ComputerVisionGame](https://github.com/Mikey3D99/ComputerVisionGame)| Finished|Computer vision game, written in c++ and using OpenCV|
-|[ExpertMotWebApplication](https://github.com/Mikey3D99/ExpertMotWebApplication)| In progress|A website, written with React + Java + Spring + Hibernate|
+|[ExpertMotWebApplication](https://github.com/Mikey3D99/ORO)| In progress|A website, written with React + Java + Spring + Hibernate|
 |[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
 
 
