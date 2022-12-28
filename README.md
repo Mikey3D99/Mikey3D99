@@ -12,13 +12,13 @@
 
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
+|[ExpertMotFrontEnd](https://github.com/Mikey3D99/expert-front)| In progress|Client side for Expert Mot web application written in Vue.js|
+|[ExpertMotBackEnd](https://github.com/Mikey3D99/ORO)| In progress|Server side for Expert Mot web application written with Java Spring + ORM + PostgreSQL|
 [ReceiptsSharing](https://github.com/Mikey3D99/ReceiptsSharing)|Finished| Receipts sharing application written in Dart + Flutter for Android|
 [WeatherApp](https://github.com/Mikey3D99/WeatherApp)|Finished| Simple weather application for Android written in Java|
 |[GeneticAlgorithms](https://github.com/Mikey3D99/GeneticAlgorithms)|Finished| Implementation of a genetic algorithm, in this particular case - function optimization|
 |[ComputerVisionGame](https://github.com/Mikey3D99/ComputerVisionGame)| Finished|Computer vision game, written in c++ and using OpenCV|
-|[ExpertMotFrontEnd](https://github.com/Mikey3D99/expert-front)| In progress|Client side for Expert Mot web application written in Vue.js|
 |[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
-
 
 
 ## Technologies
