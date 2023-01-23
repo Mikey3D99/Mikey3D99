@@ -12,7 +12,7 @@
 
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
-|[ExpertMotFrontEnd](https://github.com/Mikey3D99/expert-front)| In progress|Client side for Expert Mot web application written in Vue.js|
+|[frontExp](https://github.com/Mikey3D99/frontExp)| In progress|Client side for Expert Mot web application written in Vue.js|
 |[ExpertMotBackEnd](https://github.com/Mikey3D99/ORO)| In progress|Server side for Expert Mot web application written with Java Spring + ORM + PostgreSQL|
 [ReceiptsSharing](https://github.com/Mikey3D99/ReceiptsSharing)|Finished| Receipts sharing application written in Dart + Flutter for Android|
 [WeatherApp](https://github.com/Mikey3D99/WeatherApp)|Finished| Simple weather application for Android written in Java|
