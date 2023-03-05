@@ -10,7 +10,7 @@
 
 ### Projects:
 
-|Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
+|Repo|Status|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 
 |:---|:---|:---:|
 |[Flutter-ui-demo](https://github.com/Mikey3D99/flutter_ui_demo)|Finished| Simple showcase of flutter - material, stateful/statless widgets, login page and camera showcase|
