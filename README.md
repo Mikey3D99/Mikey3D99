@@ -14,7 +14,7 @@
 
 |:---|:---|:---:|
 |[Flutter-ui-demo](https://github.com/Mikey3D99/flutter_ui_demo)|Finished| Simple showcase of flutter - material, stateful/statless widgets, login page and camera showcase|
-[ReceiptsSharing](https://github.com/Mikey3D99/ReceiptsSharing)|Finished| Receipts sharing application written in Dart + Flutter for Android|
+|[ReceiptsSharing](https://github.com/Mikey3D99/ReceiptsSharing)|Finished| Receipts sharing application written in Dart + Flutter for Android|
 |[frontExp](https://github.com/Mikey3D99/frontExp)| In progress|Client side for Expert Mot web application written in Vue.js|
 |[ExpertMotBackEnd](https://github.com/Mikey3D99/ORO)| In progress|Server side for Expert Mot web application written with Java Spring + ORM + PostgreSQL|
 [WeatherApp](https://github.com/Mikey3D99/WeatherApp)|Finished| Simple weather application for Android written in Java|
