@@ -18,7 +18,7 @@
 [WeatherApp](https://github.com/Mikey3D99/WeatherApp)|Finished| Simple weather application for Android written in Java|
 |[GeneticAlgorithms](https://github.com/Mikey3D99/GeneticAlgorithms)|Finished| Implementation of a genetic algorithm, in this particular case - function optimization|
 |[ComputerVisionGame](https://github.com/Mikey3D99/ComputerVisionGame)| Finished|Computer vision game, written in c++ and using OpenCV|
-|[flutter-ui-demo][(https://github.com/Mikey3D99/flutter_ui_demo)]|Finished| Simple showcase of flutter - material, stateful/statless widgets, login page and camera showcase|
+|[Flutter-ui-demo](https://github.com/Mikey3D99/flutter_ui_demo)|Finished| Simple showcase of flutter - material, stateful/statless widgets, login page and camera showcase|
 
 
 ## Technologies
