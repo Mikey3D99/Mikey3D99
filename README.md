@@ -22,16 +22,13 @@
 
 
 ## Technologies
-* Low level programming in **C lang**
+* **Flutter**
 * OOP with **Java**, **Python**
 * Project management with tools like **git** and **Trello**
 * **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
-* Basic knowledge of **3D modelling** in 3DSmax
-* Basics of **SQL**
+* Knowledge of **3D modelling** in 3DSmax, Blender
+* **SQL**
 * Godot Engine
 
 ##  I’m currently learning ...
-* Game Dev :video_game:
-* Java :coffee:
-* Machine Learning :robot:
-* Python :snake:
+* Flutter 🐦
