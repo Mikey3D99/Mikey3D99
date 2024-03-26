@@ -1,32 +1,23 @@
 ## Hi there 👋
 
  Welcome to my GitHub! My name is Michał Włodarczyk, also known as Mikey3D99.
- I am a Computer Science student at the Lodz University of Technology, Poland and a member of FruitEaters Inc. 
+ I'm passionate about python and AI/ML development.
 
  ## About me:
-- 👀 I am interested in Mobile Development & Backend.
-- 💞️ I am looking for an internship / job.
-- 📫 How to reach me : [ My LinkedIn](https://www.linkedin.com/in/michal-wlodarczyk-0b17771a7/)
+- 👀 I am interested in AI/ML
 
 ### Projects:
 
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|Tech Stack|
 |:---|:---|:---|:---|
-|[Flutter-ui-demo](https://github.com/Mikey3D99/flutter_ui_demo)|Finished| Simple showcase of flutter - material, stateful/statless widgets, login page and camera showcase|Flutter, Dart, Default State Management|
-|[ReceiptsSharing](https://github.com/Mikey3D99/ReceiptsSharing)|Finished| Receipts sharing application written in Dart + Flutter for Android|Flutter, Dart, Firebase|
-[WeatherApp](https://github.com/Mikey3D99/WeatherApp)|Finished| Simple weather application for Android written in Java|Java, Android|
 |[GeneticAlgorithms](https://github.com/Mikey3D99/GeneticAlgorithms)|Finished| Implementation of a genetic algorithm, in this particular case - function optimization|Python|
 |[ComputerVisionGame](https://github.com/Mikey3D99/ComputerVisionGame)| Finished|Computer vision game, written in c++ and using OpenCV|C++, OpenCV, SFML|
 
 
 ## Technologies
-* **Flutter**
-* OOP with **Java**, **Python**
-* Project management with tools like **git** and **Trello**
-* **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
-* Knowledge of **3D modelling** in 3DSmax, Blender
-* **SQL**
-* Godot Engine
-
-##  I’m currently learning ...
-* Flutter 🐦
+* **Python**
+* **Pytorch**
+* **Pandas and Numpy**
+* **Usage of ChatGPT, Dalle-3 and expirience in prompt engineering**
+* **NLP with HuggingFace Transformers**
+* **Document processing, sentiment analysis**
